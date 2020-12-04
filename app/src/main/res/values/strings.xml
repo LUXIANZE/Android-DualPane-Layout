@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Android-DualPane-Layout</string>
+    <string name="UpdateButtonText">Update</string>
 </resources>
