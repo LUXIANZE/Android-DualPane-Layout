@@ -63,4 +63,7 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
         timerHandler.removeCallbacks(updater);
     }
+
+    public void onNextPageBtnClicked(View view) {
+    }
 }
